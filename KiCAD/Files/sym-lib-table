@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name FinalPCB-rescue)(type Legacy)(uri ${KIPRJMOD}/FinalPCB-rescue.lib)(options "")(descr ""))
+  (lib (name LV52117QA)(type Legacy)(uri "C:/Users/Daumantas/GoogleDrive/KiCAD/Projects 2019/Diy Generator/Final/FinalPCB/LV52117QA.lib")(options "")(descr ""))
+  (lib (name AD9833module)(type Legacy)(uri ${KIPRJMOD}/AD9833module.lib)(options "")(descr ""))
+)

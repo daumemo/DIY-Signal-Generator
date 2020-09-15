@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name LV52117)(type KiCad)(uri ${KIPRJMOD}/LV52117.pretty)(options "")(descr ""))
+  (lib (name ESP32-WROOM-32)(type KiCad)(uri ${KIPRJMOD}/ESP32-WROOM-32.pretty)(options "")(descr ""))
+  (lib (name SMA_Samtec)(type KiCad)(uri ${KIPRJMOD}/SMA_Samtec)(options "")(descr ""))
+  (lib (name FinalPCB)(type KiCad)(uri ${KIPRJMOD}/FinalPCB.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+)
