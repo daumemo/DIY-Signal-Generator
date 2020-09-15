@@ -1,5 +1,7 @@
 # DIY-Signal-Generator
 
+![diy-generator-image](https://daumemo.com/wp-content/uploads/2020/09/DIY-signal-generator-finished-front-1.jpg)
+
 A device, used for generating electrical signals. More infromation: https://daumemo.com/finished-diy-portable-wi-fi-function-generator-part-17
 
 Repository includes all files: firmware code, schematics, PCB files.
